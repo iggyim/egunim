@@ -8,6 +8,8 @@ git add
 git commit
 ```
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 ### ___
