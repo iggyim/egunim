@@ -7,8 +7,8 @@ git status
 git add
 git commit
 ```
-
-[Contribution guidelines for this project](/docs/CONTRIBUTING.md)
+CONTRIBUTING.md
+[Contribution guidelines for this project](/../CONTRIBUTING.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
