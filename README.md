@@ -8,7 +8,7 @@ git add
 git commit
 ```
 
-[Contribution guidelines for this project](/../CONTRIBUTING)
+[Contribution guidelines for this project](/CONTRIBUTING)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
