@@ -1,5 +1,5 @@
 
-![This is an image](https://raw.githubusercontent.com/iggyim/egunim/main/images/HeadShot.jpg)
+![This is an image](https://raw.githubusercontent.com/iggyim/egunim/main/images/HeadShot_smol.jpg)
 
 Some basic Git commands are:
 ```
