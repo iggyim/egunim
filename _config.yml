@@ -53,3 +53,5 @@ url-pretty: "MyWebsite.com"
 excerpt_length: 50
 
 
+
+theme: jekyll-theme-hacker
