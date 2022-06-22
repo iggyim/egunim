@@ -8,7 +8,7 @@ git add
 git commit
 ```
 
-[Contribution guidelines for this project](CONTRIBUTING.md)
+[Contribution guidelines for this project](https://iggyim.github.io/photography/)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
