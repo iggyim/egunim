@@ -1,3 +1,6 @@
 # Name of website
 title: Egun Im
 theme: jekyll-theme-hacker
+
+github:
+  is_project_page: false
